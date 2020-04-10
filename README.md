@@ -6,3 +6,4 @@ delay among drawing every depth of this fractal so it can be clearly seen what i
   <li>Java</li>
 </ul>
 <hr>
+<img src="https://raw.githubusercontent.com/teo0098/Sierpinski-Triangle-Fractal-Animation/master/fractalTriangle.gif">
