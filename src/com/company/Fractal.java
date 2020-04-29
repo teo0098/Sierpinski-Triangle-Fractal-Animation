@@ -17,7 +17,7 @@ public class Fractal extends JPanel implements Runnable {
 
     private void triangle(Graphics g, int x1, int x2, int x3, int y1, int y2, int y3, int yPeak, Color colour, int depth) {
         if (depth >= 0) {
-            if (colour == Color.BLACK) {
+            if (colour == color1) {
                 g.setColor(colour);
                 g.drawPolygon(new int[] {x1, x2, x3}, new int[] {y1, y2, y3}, 3);
                 g.setColor(colour);
